@@ -1,3 +1,6 @@
+# 졸업논문 링크
+https://drive.google.com/file/d/13_soHkh64OWVVhIUMmmJ4oBxpw9jZ-Pk/view?usp=drive_link
+
 # Simscape 영상
 
 simscape fail :  https://www.youtube.com/watch?v=d6sOA7ThSyM&ab_channel=RolerKk
