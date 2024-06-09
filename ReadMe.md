@@ -1,5 +1,10 @@
+# Simscape 영상
+
+simscape fail :  https://www.youtube.com/watch?v=d6sOA7ThSyM&ab_channel=RolerKk
+simscape success : https://youtu.be/tg1z4_bQWoM
+
 # 2023_Capstone
-# 팀장이 쓰는 피드백
+
 
 2023 1. 10 ~ 모터 선정, 모터 드라이버선정  
 모터 MD로봇의 BL9 + ENCODER 부착형 모터 32만원 
