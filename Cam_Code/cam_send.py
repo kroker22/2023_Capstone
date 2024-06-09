@@ -2,7 +2,7 @@ import serial
 import cv2 
 import time
 import numpy as np
-
+####
 
 stm = serial.Serial(port = '/dev/ttyAMA1',baudrate = 19200,timeout=1.0,bytesize=serial.EIGHTBITS,parity=serial.PARITY_NONE,stopbits=serial.STOPBITS_ONE)
 time.sleep(0.5)
